@@ -166,7 +166,7 @@ if __name__ == "__main__":
     print "using the gradient"
 
     v = [random.randint(-10, 10) for i in range(3)]
-
+    print(str(sum_of_squares(v))+str(v))
     tolerance = 0.0000001
 
     while True:
