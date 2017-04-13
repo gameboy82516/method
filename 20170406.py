@@ -1,3 +1,4 @@
+# coding: utf-8
 from __future__ import division
 from collections import Counter
 from linear_algebra import sum_of_squares, dot
